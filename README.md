@@ -11,7 +11,7 @@ The results folder includes the recently trained model and any related graphs.
 In order to run this yourself, complete the following steps
 
 Your dataset should be organized in the following folder structure before uploading the images
-<pre> <code>```plaintext 
+<pre> <code>
 dataset/ 
 ├── test/ 
 │ ├── covid/ 
@@ -22,4 +22,4 @@ dataset/
 └── val/ 
     ├── covid/ 
     └── non_covid/ 
-```</code> </pre>
+</code> </pre>
